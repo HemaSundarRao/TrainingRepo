@@ -1,3 +1,5 @@
 This is my git tutorial of exploring various git commands.
 
 Edited by 18981A0522.
+
+Hema Sundar Rao Bolem.
